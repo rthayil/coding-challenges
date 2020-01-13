@@ -1,7 +1,7 @@
 Coding Challenges
 
 Challenge 1 Information
-
+(Note: Challenge Prompt not written by contibutor)
 
 Challenge Prompt:
 
